@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo slim_e610-userdebug
+add_lunch_combo berserk_e610-userdebug
